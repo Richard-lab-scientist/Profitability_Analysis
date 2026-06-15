@@ -1,12 +1,12 @@
 # Project Background
 Hurst, established in 2018 is a B2B commercial distributor that provides office supplies & business services through its sales representative.
 
-There has been significant issues arising in its sales performance, due to is product pipeline, affects it overall revenue. Thisanalysis aims to provide actionable insights into it product pipeline to increase overall profitability
+There has been a significant issue in its sales performance, due to is product pipeline, affecting it overall revenue. This analysis aims to provide actionable insights into its product pipeline to manage risks and increase profitability.
 
 Insights and recommendations are provided on the following key areas:
 
-- **Cancellation Analysis:** 
-- **Product pipeline Analysi:** 
+- **Discount Pricing Model:**  Creating a discount pricing model to convert overdue inventory
+- **Balance Sheet:** 
 - 
 
 The queries used to inspect and clean the data for this analysis can be found here [link].
